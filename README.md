@@ -1,0 +1,2 @@
+# Student-Mental-Health-and-Academic-Performance-Analysis
+This dashboard provides a detailed analysis of the relationship between mental health and academic performance among university students. It is designed to help institutional policymakers understand the prevalence and effects of depression, anxiety, and panic attacks, supporting data-driven strategies that enhance student success and well-being.
