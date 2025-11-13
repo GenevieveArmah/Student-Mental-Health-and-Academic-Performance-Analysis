@@ -1,10 +1,9 @@
-Overview
-
+OVERVIEW
 This dashboard provides a detailed analysis of the relationship between mental health and academic performance among university students. It is designed to help educators, institutional researchers, and policymakers understand the prevalence and academic implications of conditions such as depression, anxiety, and panic attacks. The goal is to support data-driven strategies that promote student success, resilience, and well-being in higher education.
 
 
 
-Data Source:
+DATA SOURCE:
 
 Kaggle — Student Mental Health Data Analysis and Prediction
 
@@ -13,7 +12,7 @@ The dataset contains self-reported information on depression, anxiety, and panic
 
 
 
-Summary Metrics:
+SUMMARY METRICS:
 
 Total Student Count: Number of students surveyed from the Kaggle dataset
 
@@ -41,7 +40,7 @@ Single Students: Represented the majority of those reporting anxiety (54%) and p
 
 
 
-Dashboard Structure:
+DASHBOARD STRUCTURE:
 
 Page 1 – General Student Overview
 
@@ -61,7 +60,7 @@ Additional visuals analyze whether students who sought treatment achieved higher
 
 
 
-Insights:
+INSIGHTS:
 
 1. Students who reported mental-health symptoms recorded slightly higher CGPA averages (~ +0.17) than those without symptoms, suggesting that awareness and coping strategies may correlate with stronger academic engagement.
 
@@ -78,7 +77,7 @@ Insights:
 
 
 
-Recommendations:
+RECOMMENDATIONS:
 
 1. Expand Access to Mental-Health Support: Establish and promote campus counseling and wellness centers that are accessible and stigma-free.
 
