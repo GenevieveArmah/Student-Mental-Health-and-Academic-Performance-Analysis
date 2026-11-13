@@ -1,7 +1,7 @@
 OVERVIEW
 This dashboard provides a detailed analysis of the relationship between mental health and academic performance among university students. It is designed to help educators, institutional researchers, and policymakers understand the prevalence and academic implications of conditions such as depression, anxiety, and panic attacks. The goal is to support data-driven strategies that promote student success, resilience, and well-being in higher education.
 
-
+TOOLS USED: Python for cleaning data, Power BI for Dashboard development and Insight generation
 
 DATA SOURCE:
 
